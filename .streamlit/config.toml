@@ -1,0 +1,10 @@
+[server]
+# Matches MAX_UPLOAD_SIZE_MB in config.py.
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# Hide the developer-only toolbar items (Deploy, Rerun, Clear cache).
+toolbarMode = "viewer"
